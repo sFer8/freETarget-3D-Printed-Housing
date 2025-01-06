@@ -24,7 +24,7 @@ In the current design, two metal plates are used, excluding the pellet deflector
 
 ### Non-3D Printed Components
 
-Below are the similar to what I purchased but from a locally availalbe site.
+Below are the similar to what I purchased but from a locally availabe site.
 
 *   [Speaker Stand](https://www.amazon.com/EMART-Adjustable-Speaker-Professional-Structure/dp/B07WVYPBDV/ref=sr_1_57?crid=1XTZBJHSW90FW&dib=eyJ2IjoiMSJ9.W3tksgF8JIlR_tgDGOUiBh3F_pc7txD11VkbQ9S7lNo5ZduV4QjopG1BOJ_4a25s9KhvzzyWO6vWruGo4nGS7zeSXVzDjAW0uucwXbP45upFWOUADUfHzbRZXwGiKp8athS8vwcpGN8QC_fSBUhQczLSEU7vtPFjyz_JuJ5n-7I-wju2QuixuYjzaQm5jNegPVRU-ess1zCXdeuov3LSTllQts5ca5duX22QGrDSwDs.p2xAsBScbZLS4cgdpBjj4eQIhQpII513a-tmyip0Vio&dib_tag=se&keywords=adjustable+speaker+stand&qid=1736144392&sprefix=adjustablspeaker+stand%2Caps%2C263&sr=8-57&xpid=8GnRUGaf3TWvd)
     
