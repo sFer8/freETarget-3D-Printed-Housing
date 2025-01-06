@@ -72,4 +72,4 @@ Below are the similar to what I purchased but from a locally availalbe site.
 In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
 ![Pellet Trap](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Pellet%20Trap.png)
 
-This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457).
+This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457). If you feel generous or want to help in funding to make this project better, feel free to drop any small amount [here](paypal.me/sFer8).
