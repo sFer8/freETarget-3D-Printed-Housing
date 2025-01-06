@@ -1,3 +1,11 @@
+#freEtarget 3D Printed Housing
+
+![Image 1](D:/freETarget-3D-Printed-Housing/Images/Image 1.PNG)
+![Image 2](D:/freETarget-3D-Printed-Housing/Images/Image 2.PNG)
+![Image 3](D:/freETarget-3D-Printed-Housing/Images/Image 3.PNG)
+![Image 4](D:/freETarget-3D-Printed-Housing/Images/Image 4.PNG)
+![Image 5](D:/freETarget-3D-Printed-Housing/Images/Image 5.PNG)
+
 ## Warning
 
 Some parts of the design have not been tested due to current funding limitations. For instance, my personal target does not include any metal protective components. Additionally, the released designs for the target's face have not been tested due to a shortage of filament. Holes to be printed may require the use of a drill to achieve the appropriate size.
@@ -62,6 +70,6 @@ Below are the similar to what I purchased but from a locally availalbe site.
         
 
 In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
-![Pellet Trap(D:\freETarget-3D-Printed-Housing\Images)
+![Pellet Trap](D:/freETarget-3D-Printed-Housing/Images/Pellet Trap.png)
 
 This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457).
