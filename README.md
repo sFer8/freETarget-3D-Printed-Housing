@@ -1,4 +1,4 @@
-#freEtarget 3D Printed Housing
+# freEtarget 3D Printed Housing
 
 ![Image 1](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%201.png)
 ![Image 2](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%202.png)
