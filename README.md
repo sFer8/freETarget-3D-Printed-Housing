@@ -1,10 +1,10 @@
 #freEtarget 3D Printed Housing
 
-![Image 1](D:/freETarget-3D-Printed-Housing/Images/Image 1.PNG)
-![Image 2](D:/freETarget-3D-Printed-Housing/Images/Image 2.PNG)
-![Image 3](D:/freETarget-3D-Printed-Housing/Images/Image 3.PNG)
-![Image 4](D:/freETarget-3D-Printed-Housing/Images/Image 4.PNG)
-![Image 5](D:/freETarget-3D-Printed-Housing/Images/Image 5.PNG)
+![Image 1](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%201.png)
+![Image 2](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%202.png)
+![Image 3](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%203.png)
+![Image 4](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%204.png)
+![Image 5](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%205.png)
 
 ## Warning
 
@@ -70,6 +70,6 @@ Below are the similar to what I purchased but from a locally availalbe site.
         
 
 In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
-![Pellet Trap](D:/freETarget-3D-Printed-Housing/Images/Pellet Trap.png)
+![Pellet Trap](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Pellet%20Trap.png)
 
 This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457).
