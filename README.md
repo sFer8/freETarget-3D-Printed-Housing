@@ -4,7 +4,7 @@ Some parts of the design have not been tested due to current funding limitations
 
 ### Paper Target
 
-The paper target holder uses a standard 17x17cm target. Both rifle and pistol paper targets should use this size. Custom target holders can be requested, but please provide important measurements to assist in their implementation.
+The default paper target holder uses a standard 17x17cm target. Both rifle and pistol paper targets should use this size. SUIS style targets have another holder that can be printed however I have not had the chance to test it out. Custom target holders can be requested, but please provide important measurements to assist in their implementation.
 
 ### 3D printed files
 
