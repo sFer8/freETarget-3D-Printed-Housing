@@ -1,3 +1,11 @@
+# freEtarget 3D Printed Housing
+
+![Image 1](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%201.png)
+![Image 2](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%202.png)
+![Image 3](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%203.png)
+![Image 4](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%204.png)
+![Image 5](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%205.png)
+
 ## Warning
 
 Some parts of the design have not been tested due to current funding limitations. For instance, my personal target does not include any metal protective components. Additionally, the released designs for the target's face have not been tested due to a shortage of filament. Holes to be printed may require the use of a drill to achieve the appropriate size.
@@ -16,7 +24,7 @@ In the current design, two metal plates are used, excluding the pellet deflector
 
 ### Non-3D Printed Components
 
-Below are the similar to what I purchased but from a locally availalbe site.
+Below are the similar to what I purchased but from a locally availabe site.
 
 *   [Speaker Stand](https://www.amazon.com/EMART-Adjustable-Speaker-Professional-Structure/dp/B07WVYPBDV/ref=sr_1_57?crid=1XTZBJHSW90FW&dib=eyJ2IjoiMSJ9.W3tksgF8JIlR_tgDGOUiBh3F_pc7txD11VkbQ9S7lNo5ZduV4QjopG1BOJ_4a25s9KhvzzyWO6vWruGo4nGS7zeSXVzDjAW0uucwXbP45upFWOUADUfHzbRZXwGiKp8athS8vwcpGN8QC_fSBUhQczLSEU7vtPFjyz_JuJ5n-7I-wju2QuixuYjzaQm5jNegPVRU-ess1zCXdeuov3LSTllQts5ca5duX22QGrDSwDs.p2xAsBScbZLS4cgdpBjj4eQIhQpII513a-tmyip0Vio&dib_tag=se&keywords=adjustable+speaker+stand&qid=1736144392&sprefix=adjustablspeaker+stand%2Caps%2C263&sr=8-57&xpid=8GnRUGaf3TWvd)
     
@@ -62,6 +70,7 @@ Below are the similar to what I purchased but from a locally availalbe site.
         
 
 In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
-![Pellet Trap(D:\freETarget-3D-Printed-Housing\Images)
 
-This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457).
+![Pellet Trap](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Pellet%20Trap.png)
+
+This is my first github repository. Please feel free to give me comments and tips for the project and my usage of Github. I can be contacted via [Discord](https://discordapp.com/users/247699345250451457). If you feel generous or want to help in funding to make this project better, feel free to drop any small amount [here](paypal.me/sFer8).
