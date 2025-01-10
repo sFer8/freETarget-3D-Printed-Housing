@@ -51,6 +51,8 @@ Below are the similar to what I purchased but from a locally availabe site.
 *   M3
     
     *   8mm long (61 pcs)
+ 
+    *   12mm long (6 pcs)
         
     *   16mm long (60 pcs)
         
@@ -67,6 +69,11 @@ Below are the similar to what I purchased but from a locally availabe site.
     *   25mm long (4 pcs)
         
     *   Nut (4 pcs)
+*   M8
+    
+    *   260mm rod (to be cut to 2)
+        
+    *   Nut (6 pcs)    
         
 
 In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
