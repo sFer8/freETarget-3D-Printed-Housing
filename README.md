@@ -12,9 +12,9 @@ The default paper target holder uses a standard 17x17cm target. Both rifle and p
 
 For witness paper, a standard roll of black craft paper can be cut to 90mm wide and rolled onto the 3d printed roll holder. When using craft paper, it tends to bend behind the target. As such it will be necessary to put the witness paper in between two target papers as shown in order to have a more favorable result in scoring.
 
-![Witness paper](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Witness%20paper.png)
+![Witness paper](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Witness%20paper.jpg)
 ![Target Paper](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Target%20Paper.png)
-![Target Image](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Target%20Image.png)
+![Target Image](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Target%20Image.jpg)
 
 ### 3D printed files
 
