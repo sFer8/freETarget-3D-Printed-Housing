@@ -1,18 +1,20 @@
 # freEtarget 3D Printed Housing
 
-![Image 1](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%201.png)
-![Image 2](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%202.png)
-![Image 3](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%203.png)
-![Image 4](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%204.png)
-![Image 5](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%205.png)
+![Image 6](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Image%206.png)
 
 ## Warning
 
 Some parts of the design have not been tested due to current funding limitations. For instance, my personal target does not include any metal protective components. Additionally, the released designs for the target's face have not been tested due to a shortage of filament. Holes to be printed may require the use of a drill to achieve the appropriate size.
 
-### Paper Target
+### Paper Target and Witness Paper
 
 The default paper target holder uses a standard 17x17cm target. Both rifle and pistol paper targets should use this size. SUIS style targets have another holder that can be printed however I have not had the chance to test it out. Custom target holders can be requested, but please provide important measurements to assist in their implementation.
+
+For witness paper, a standard roll of black craft paper can be cut to 90mm wide and rolled onto the 3d printed roll holder. When using craft paper, it tends to bend behind the target. As such it will be necessary to put the witness paper in between two target papers as shown in order to have a more favorable result in scoring.
+
+![Witness paper](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Witness%20paper.png)
+![Target Paper](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Target%20Paper.png)
+![Target Image](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Target%20Image.png)
 
 ### 3D printed files
 
