@@ -79,7 +79,7 @@ Below are the similar to what I purchased but from a locally availabe site.
     *   Nut (6 pcs)    
         
 
-In case that there is no pellet trap of the required size is not available, I can modify it to fit commonly available pellet traps with your help in getting essential measurements.
+Original Designed used a premade pellete trap. Current design recommends using 2 and 3mm steel plates to create a SUIS like pellete trap. This design will make sure pellets are caught and no bounce back occurs. I greatly recommend using this style of trap rather than the original for safety.
 
 ![Pellet Trap](https://github.com/sFer8/freETarget-3D-Printed-Housing/blob/main/Images/Pellet%20Trap.png)
 
