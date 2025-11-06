@@ -53,13 +53,13 @@ Below are the similar to what I purchased but from a locally availabe site.
     
 *   M3
     
-    *   8mm long (61 pcs)
+    *   8mm long (41 pcs)
  
     *   12mm long (6 pcs)
         
-    *   16mm long (60 pcs)
+    *   16mm long (71 pcs)
         
-    *   Nut (61 pcs)
+    *   Nut (83 pcs)
         
 *   M4
     
@@ -69,7 +69,7 @@ Below are the similar to what I purchased but from a locally availabe site.
         
 *   M6
     
-    *   25mm long (4 pcs)
+    *   20mm long (4 pcs)
         
     *   Nut (4 pcs)
 *   M8
